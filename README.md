@@ -11,8 +11,8 @@ passionate about creating modern applications.
 -React
 -Python
 
-#repository link
+#Repository link
 https://github.com/SukeshhSharma/sukh.portfolio.io
 
-#contact me
+#Contact me
 -LinkedIn: https://www.linkedin.com/in/sukesh-sharma/
